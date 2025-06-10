@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="120" alt="Python Logo"/>
+  <img src="0b55e049-a79a-4184-8f27-cabf4cfb36e1.png" alt="Python Journey Banner" width="100%"/>
+</div>
+
   <h1>🚀 Python Journey to Google</h1>
   <p><i>A daily practice repo by M. Ikrash Haroon aiming to become a Python Developer at Google 👨‍💻🌍</i></p>
 </div>
