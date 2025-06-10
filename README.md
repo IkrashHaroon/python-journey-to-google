@@ -36,13 +36,14 @@ python-journey-to-google/
 
 
 🔧 Tools & Tech
-Language: Python 3+
 
-Editor: VS Code
+## Language: Python 3+
 
-Version Control: Git & GitHub
+## Editor:## VS Code
 
-Platform: Windows PC
+## Version Control: Git & GitHub
+
+## Platform: Windows PC
 
 🗺️ Roadmap
 Check out roadmap.md for my detailed learning path and daily progress updates.
