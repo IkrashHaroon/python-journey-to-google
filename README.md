@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="0b55e049-a79a-4184-8f27-cabf4cfb36e1.png" alt="Python Journey Banner" width="100%"/>
+  <img src="0b55e049-a79a-4184-8f27-cabf4cfb36e1.png" alt="Python Journey Banner" width="350px" height="340px"/>
 </div>
 
   <h1>🚀 Python Journey to Google</h1>
