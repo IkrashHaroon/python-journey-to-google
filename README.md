@@ -2,10 +2,10 @@
   <img src="0b55e049-a79a-4184-8f27-cabf4cfb36e1.png" alt="Python Journey Banner" width="350px" height="340px"/>
 </div>
 
-  <h1>🚀 Python Journey to Google</h1>
-  <p><i>A daily practice repo by M. Ikrash Haroon aiming to become a Python Developer at Google 👨‍💻🌍</i></p>
+  <h1 align="center">🚀 Python Journey to Google</h1>
+  <p align="center"><i>A daily practice repo by M. Ikrash Haroon aiming to become a Python Developer at Google 👨‍💻🌍</i></p>
 </div>
-# 🐍 Python Journey to Google 🚀
+ 🐍 Python Journey to Google 🚀
 
 Welcome to my Python learning repository. I’m M. Ikrash Haroon, a passionate Software Engineering student with a dream: **to become a Python Developer at Google**. This repository is my public commitment, showing my consistency, dedication, and growth one chapter at a time.
 
@@ -37,13 +37,13 @@ python-journey-to-google/
 
 🔧 Tools & Tech
 
-## Language: Python 3+
+Language: Python 3+
 
-## Editor:## VS Code
+Editor: VS Code
 
-## Version Control: Git & GitHub
+Version Control: Git & GitHub
 
-## Platform: Windows PC
+Platform: Windows PC
 
 🗺️ Roadmap
 Check out roadmap.md for my detailed learning path and daily progress updates.
