@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="120" alt="Python Logo"/>
+  <h1>🚀 Python Journey to Google</h1>
+  <p><i>A daily practice repo by M. Ikrash Haroon aiming to become a Python Developer at Google 👨‍💻🌍</i></p>
+</div>
 # 🐍 Python Journey to Google 🚀
 
 Welcome to my Python learning repository. I’m M. Ikrash Haroon, a passionate Software Engineering student with a dream: **to become a Python Developer at Google**. This repository is my public commitment, showing my consistency, dedication, and growth one chapter at a time.
