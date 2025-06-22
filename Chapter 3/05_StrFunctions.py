@@ -31,3 +31,9 @@ print(f"The index of first occurrence of 'Z' in {name} is {find}")
 original_string = "Python Journey to Microsoft"
 replace_func = original_string.replace("Microsoft", "Google")
 print(f"The replaced string is: {replace_func}")
+#11. title() - converts the first character of each word to uppercase
+title = "hello world"
+title_case = title.title()
+print(f"The title of the {title} is {title_case}")
+
+#  If you know any other functions, please create a pull request in the repo so that others, including me, can also learn from you. 💡 
