@@ -12,31 +12,33 @@
 
 🔹 Escape Sequences in Strings
 
-📁 Folder Overview
-📂 Chapter 3/
-```
-| File                       | Description                  |
-| -------------------------- | ---------------------------- |
-| `01_String-intro.py`       | Introduction to Strings      |
-| `02_String-slicing.py`     | String Slicing Techniques    |
-| `03_Negative-slicing.py`   | Negative Indexing in Strings |
-| `04_Slicing-skip-value.py` | Slicing with Skip Values     |
-| `05_StrFunctions.py`       | String Functions and Methods |
-| `06_Escap_seq.py`          | Escape Sequences in Strings  |
+## 📁 Folder Overview
 
-```
-```
-📂 CH 3 - PS/ (Practice Set)
-| File          | Problem            |
-| ------------- | ------------------ |
+### 📂 Chapter 2/
+| File | Description |
+|------|-------------|
+| `variables.py` | Basics of variables |
+| `datatypes.py` | Working with Python data types |
+| `operators.py` | Using various operators |
+| `inputs.py` | Input handling in Python |
+
+---
+
+### 📂 `CH 2 - PS/` (Practice Set)
+
+| File | Problem |
+|------|---------|
 | `Problem1.py` | Practice Problem 1 |
 | `Problem2.py` | Practice Problem 2 |
 | `Problem3.py` | Practice Problem 3 |
 | `Problem4.py` | Practice Problem 4 |
 | `Problem5.py` | Practice Problem 5 |
-```
+| `Problem6.py` | Practice Problem 6 |
 
-Each problem is designed to strengthen your string manipulation skills with real coding challenges.
+Each problem is based on one or more concepts from this chapter and helps strengthen the understanding through code-based exercises.
+
+---
+
 
 🧠 Key Learning:
 Solid foundation in string handling — essential for solving data manipulation problems, text processing, and future advanced topics like file handling and data parsing.
