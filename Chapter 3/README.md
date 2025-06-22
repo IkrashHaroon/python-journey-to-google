@@ -1,16 +1,21 @@
 <div align="center"> <h2>📘 Chapter 3: Strings & String Manipulation</h2> <p><i>Part of the Python Journey to Google 🚀</i></p> </div>
-📚 Topics Covered
-🔹 String Basics
 
-🔹 String Indexing and Slicing
+---
+## 📚 Topics Covered
 
-🔹 Negative Indexing in Strings
+- 🔹 String Basics
 
-🔹 Slicing with Skip Values
+- 🔹 String Indexing and Slicing
 
-🔹 String Functions and Methods
+- 🔹 Negative Indexing in Strings
 
-🔹 Escape Sequences in Strings
+- 🔹 Slicing with Skip Values
+
+- 🔹 String Functions and Methods
+
+- 🔹 Escape Sequences in Strings
+
+---
 
 ## 📁 Folder Overview
 
@@ -40,8 +45,9 @@ Each problem is based on one or more concepts from this chapter and helps streng
 ---
 
 
-🧠 Key Learning:
-Solid foundation in string handling — essential for solving data manipulation problems, text processing, and future advanced topics like file handling and data parsing.
+## 🧠 Key Learning:
+> Solid foundation in string handling — essential for solving data manipulation problems, text processing, and future advanced topics like file handling and data parsing.
+---
 
-✍️ Authored by M. Ikrash Haroon
-📅 22 June 2025
+> ✍️ Authored by M. Ikrash Haroon
+> 📅 22 June 2025
