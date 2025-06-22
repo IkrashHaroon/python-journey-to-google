@@ -1,19 +1,7 @@
 <div align="center"> <h2>📘 Chapter 4: List & Tuples</h2> <p><i>Part of the Python Journey to Google 🚀</i></p> </div>
 
 ---
-## 📚 Topics Covered
-
-- 🔹 String Basics
-
-- 🔹 String Indexing and Slicing
-
-- 🔹 Negative Indexing in Strings
-
-- 🔹 Slicing with Skip Values
-
-- 🔹 String Functions and Methods
-
-- 🔹 Escape Sequences in Strings
+Comming Soon... 
 
 ---
 
@@ -36,4 +24,5 @@
 ---
 
 > ✍️ Authored by M. Ikrash Haroon
+> 
 > 📅 22 June 2025
