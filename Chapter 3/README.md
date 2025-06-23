@@ -19,7 +19,7 @@
 
 ## 📁 Folder Overview
 
-### 📂 Chapter 2/
+### 📂 Chapter 3/
 | File | Description |
 |------|-------------|
 | `variables.py` | Basics of variables |
@@ -29,7 +29,7 @@
 
 ---
 
-### 📂 `CH 2 - PS/` (Practice Set)
+### 📂 `CH 3 - PS/` (Practice Set)
 
 | File | Problem |
 |------|---------|
