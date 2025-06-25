@@ -31,8 +31,53 @@ python-journey-to-google/
 │   ├── module.py
 │   └── CH 1 - PS/
 │       └── problem1.py
+├── Chapter 2/
+│   ├── variables.py
+│   ├── datatypes.py
+│   ├── operators.py
+│   ├── inputs.py
+│   └── CH 2 - PS/
+│       ├── Problem1.py
+│       ├── Problem2.py
+│       ├── Problem3.py
+│       ├── Problem4.py
+│       ├── Problem5.py
+│       └── Problem6.py
+├── Chapter 3/
+│   ├── 01_String-intro.py
+│   ├── 02_String-slicing.py
+│   ├── 03_Negative-slicing.py
+│   ├── 04_Slicing-skip-value.py
+│   ├── 05_StrFunctions.py
+│   ├── 06_Escap_seq.py
+│   └── CH 3 - PS/
+│       ├── Problem1.py
+│       ├── Problem2.py
+│       ├── Problem3.py
+│       ├── Problem4.py
+│       └── Problem5.py
+├── Chapter 4/
+│   ├── 01_list.py
+│   ├── 02_list_methods.py
+│   ├── 03_tuple.py *(coming soon)*
+│   ├── 04_tuple_methods.py *(coming soon)*
+│   └── CH 4 - PS/
+│       ├── Problem1.py
+│       ├── Problem2.py
+│       ├── Problem3.py
+│       ├── Problem4.py
+│       └── Problem5.py
+├── Chapter 5/
+│   ├── 01_Dictionary.py
+│   ├── 02_Dictionary-methods.py
+│   ├── 03_set.py
+│   ├── 04_set-methods.py
+│   ├── 05_set_union-intersection.py
+│   └── CH 5 - PS/
+│       └── (Coming Soon...)
 ├── README.md
 └── roadmap.md (coming soon)
+
 ```
 🌟 Vision
 I believe in dreaming big and working daily to make it real. This repo is not just about code — it's about resilience, clarity, and mastering Python with the intent to join Google as a developer someday. 🏁
