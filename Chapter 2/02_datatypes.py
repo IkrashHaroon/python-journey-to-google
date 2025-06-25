@@ -13,3 +13,13 @@ print("D is a boolean variable", d)
 e = None
 print("E is a None variable", e)
 
+
+
+
+
+
+
+
+
+
+
