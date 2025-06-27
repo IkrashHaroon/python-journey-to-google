@@ -36,7 +36,17 @@
 
 | File | Description |
 |------|-------------|
-|| Coming Soon... |
+| File          | Problem            |
+| ------------- | ------------------ |
+| `Problem1.py` | Practice Problem 1 |
+| `Problem2.py` | Practice Problem 2 |
+| `Problem3.py` | Practice Problem 3 |
+| `Problem4.py` | Practice Problem 4 |
+| `Problem5.py` | Practice Problem 5 |
+| `Problem6.py` | Practice Problem 6 |
+| `Problem7.py` | Practice Problem 7 |
+| `Problem8.py` | Practice Problem 8 |
+| `Problem9.py` | Practice Problem 9 |
 
 ---
 
