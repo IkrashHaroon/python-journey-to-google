@@ -74,7 +74,15 @@ python-journey-to-google/
 │   ├── 04_set-methods.py
 │   ├── 05_set_union-intersection.py
 │   └── CH 5 - PS/
-│       └── (Coming Soon...)
+│       ├── Problem1.py
+│       ├── Problem2.py
+│       ├── Problem3.py
+│       ├── Problem4.py
+│       └── Problem5.py
+│       ├── Problem6.py
+│       ├── Problem7.py
+│       ├── Problem8.py
+│       ├── Problem9.py
 ├── README.md
 └── roadmap.md (coming soon)
 
