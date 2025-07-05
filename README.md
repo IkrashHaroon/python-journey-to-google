@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="py.png" height="100" width="100" alt="Python Logo"/>
+  <img src="py.png" height="250" width="250" alt="Python Logo"/>
   <h1>🚀 Python Journey to Google</h1>
   <p><i>by <strong>Ikrash Ibn Haroon</strong> — A daily learning repo aiming to become a Python Developer at Google 👨‍💻🌍</i></p>
 
