@@ -1,4 +1,4 @@
-list = ["Apple","Orange",5,75.88,"Ikrash","Zohan"]
+list = ["Apple","Orange",5,65.88,"Ikrash","Zohan"]
 
 print(list[0])
 
