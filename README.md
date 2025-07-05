@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="py.png" height="250" width="250" alt="Python Logo"/>
+  <img src="py.png" height="280" width="280" alt="Python Logo"/>
   <h1>🚀 Python Journey to Google</h1>
   <p><i>by <strong>Ikrash Ibn Haroon</strong> — A daily learning repo aiming to become a Python Developer at Google 👨‍💻🌍</i></p>
 
@@ -103,6 +103,7 @@ If you're on a similar journey or want to collaborate or motivate each other —
 
 📬 Email: ikrashharoon1236@gmail.com
 
-Feel free to ⭐ the repo if you find it inspiring, and let’s grow together!
+⭐ **If this repo helped or inspired you, consider giving it a star!**  
+It motivates me to keep sharing and building publicly, one step closer to Google. 🚀  
 
 <p align="center"> Built with ❤️ by <strong>Ikrash Ibn Haroon</strong> • #PythonistInProgress 🐍 </p>
