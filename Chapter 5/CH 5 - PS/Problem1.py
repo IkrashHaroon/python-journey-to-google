@@ -1,9 +1,9 @@
 words = {
-    "madad": "Help",
-    "kursi": "Chair",
-    "billi": "Cat"
+    "Chai": "Tea",
+    "Pani": "Water",
+    "Chawal" : "Rice" 
 }
+word = input("Enter the words u want to meaning of ")
+print(word(words))
 
-word = input("Enter the word you want meaning of: ")
-
-print(words[word])
+# enter the words u want to meaning of
