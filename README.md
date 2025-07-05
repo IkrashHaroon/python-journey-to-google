@@ -1,8 +1,16 @@
 <div align="center">
-  <img src="py.png" height="310" alt="Python Logo"/>
+  <img src="py.png" height="200" alt="Python Logo"/>
   <h1>🚀 Python Journey to Google</h1>
   <p><i>by <strong>Ikrash Ibn Haroon</strong> — A daily learning repo aiming to become a Python Developer at Google 👨‍💻🌍</i></p>
+
+  <p>
+    <img src="https://img.shields.io/github/last-commit/IkrashHaroon/python-journey-to-google?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Chapters-5%20Completed-blueviolet?style=flat-square"/>
+    <img src="https://img.shields.io/github/repo-size/IkrashHaroon/python-journey-to-google?style=flat-square"/>
+  </p>
 </div>
+
+
 
 ---
 
