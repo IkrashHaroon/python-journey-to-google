@@ -1,7 +1,7 @@
 employee = {
     "id": 101,
     "name": "Ali",
-    "age": 32,
+    "age": 22,
     "department": "IT",
     "skills": ["Python", "JavaScript", "SQL"],
     }
