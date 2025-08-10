@@ -5,12 +5,10 @@
 
   <p>
     <img src="https://img.shields.io/github/last-commit/IkrashHaroon/python-journey-to-google?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Chapters-5%20Completed-blueviolet?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Chapters-8%20Completed-blueviolet?style=flat-square"/>
     <img src="https://img.shields.io/github/repo-size/IkrashHaroon/python-journey-to-google?style=flat-square"/>
   </p>
 </div>
-
-
 
 ---
 
@@ -19,6 +17,9 @@
 Welcome to my personal roadmap — a focused, daily Python practice repository with one **bold goal**:
 
 > **Become a Python Developer at Google.**
+
+> **📢 Note:** This repository officially ends at **Chapter 8**.  
+> Future learning, mega projects, and advanced problem-solving will continue in a **new repository**. 🚀
 
 This journey is about **discipline, consistency, and growth**. Every folder, every commit, and every problem solved brings me one step closer to the dream. ✨
 
@@ -67,8 +68,8 @@ python-journey-to-google/
 ├── Chapter 4/
 │   ├── 01_list.py
 │   ├── 02_list_methods.py
-│   ├── 03_tuple.py *(coming soon)*
-│   ├── 04_tuple_methods.py *(coming soon)*
+│   ├── 03_tuple.py
+│   ├── 04_tuple_methods.py
 │   └── CH 4 - PS/
 │       ├── Problem1.py
 │       ├── Problem2.py
@@ -86,24 +87,36 @@ python-journey-to-google/
 │       ├── Problem2.py
 │       ├── Problem3.py
 │       ├── Problem4.py
-│       └── Problem5.py
+│       ├── Problem5.py
 │       ├── Problem6.py
 │       ├── Problem7.py
 │       ├── Problem8.py
-│       ├── Problem9.py
+│       └── Problem9.py
+├── Chapter 6/
+│   ├── code files...
+│   └── CH 6 - PS/
+│       └── problems...
+├── Chapter 7/
+│   ├── code files...
+│   └── CH 7 - PS/
+│       └── problems...
+├── Chapter 8/
+│   ├── code files...
+│   └── CH 8 - PS/
+│       └── problems...
 ├── README.md
-└── roadmap.md (coming soon)
-
+└── roadmap.md
 ```
 🌟 Vision
-I believe in dreaming big and working daily to make it real. This repo is not just about code — it's about resilience, clarity, and mastering Python with the intent to join Google as a developer someday. 🏁
+I believe in dreaming big and working daily to make it real.
+This repo is not just about code — it's about resilience, clarity, and mastering Python with the intent to join Google as a developer someday. 🏁
 
 🤝 Let's Connect!
 If you're on a similar journey or want to collaborate or motivate each other — reach out!
 
 📬 Email: ikrashharoon1236@gmail.com
 
-⭐ **If this repo helped or inspired you, consider giving it a star!**  
-It motivates me to keep sharing and building publicly, one step closer to Google. 🚀  
+⭐ If this repo helped or inspired you, consider giving it a star!
+It motivates me to keep sharing and building publicly, one step closer to Google. 🚀
 
-<p align="center"> Built with ❤️ by <strong>Ikrash Ibn Haroon</strong> • #PythonistInProgress 🐍 </p>
+<p align="center"> Built with ❤️ by <strong>Ikrash Ibn Haroon</strong> • #PythonistInProgress 🐍 </p> ```
