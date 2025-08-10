@@ -119,4 +119,4 @@ If you're on a similar journey or want to collaborate or motivate each other —
 ⭐ If this repo helped or inspired you, consider giving it a star!
 It motivates me to keep sharing and building publicly, one step closer to Google. 🚀
 
-<p align="center"> Built with ❤️ by <strong>Ikrash Ibn Haroon</strong> • #PythonistInProgress 🐍 </p> ```
+<p align="center"> Built with ❤️ by <strong>Ikrash Ibn Haroon</strong> • #PythonistInProgress 🐍 </p>
