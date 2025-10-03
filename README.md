@@ -120,3 +120,18 @@ If you're on a similar journey or want to collaborate or motivate each other —
 It motivates me to keep sharing and building publicly, one step closer to Google. 🚀
 
 <p align="center"> Built with ❤️ by <strong>Ikrash Ibn Haroon</strong> • #PythonistInProgress 🐍 </p>
+🏁 Closing Note
+
+This repository marks the end of Chapter 8 in my Python journey.
+It has been a disciplined, consistent effort — one that shaped my fundamentals and built the foundation for something much bigger. ✨
+
+But remember, this is not the end.
+It’s only the closing of one chapter and the beginning of many more. 🚀
+
+🔜 Insha’Allah, new Python repositories will follow — focused on mega projects, advanced problem-solving, and real-world applications.
+Each repo will represent the next milestone in my journey towards the dream: becoming a Python Developer at Google. 🌍💻
+
+Thank you for walking along this path with me.
+Stay tuned, because the journey continues — and the best is yet to come. 🌟
+
+<p align="center"> — With Gratitude, <br> <strong>Ikrash Ibn Haroon</strong> </p>
