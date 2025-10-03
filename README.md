@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/github/last-commit/IkrashHaroon/python-journey-to-google?style=flat-square"/>
     <img src="https://img.shields.io/badge/Chapters-8%20Completed-blueviolet?style=flat-square"/>
     <img src="https://img.shields.io/github/repo-size/IkrashHaroon/python-journey-to-google?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Journey%20Continues-Next%20Repo-success?style=flat-square"/>
   </p>
 </div>
 
@@ -108,10 +109,12 @@ python-journey-to-google/
 └── roadmap.md
 ```
 🌟 Vision
+
 I believe in dreaming big and working daily to make it real.
 This repo is not just about code — it's about resilience, clarity, and mastering Python with the intent to join Google as a developer someday. 🏁
 
 🤝 Let's Connect!
+
 If you're on a similar journey or want to collaborate or motivate each other — reach out!
 
 📬 Email: ikrashharoon1236@gmail.com
