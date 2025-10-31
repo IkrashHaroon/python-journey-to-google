@@ -12,8 +12,6 @@
     <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C0A3&center=true&vCenter=true&width=650&lines=Discipline+×+Consistency+×+Growth;Building+Python+Mastery+One+Chapter+at+a+Time;Dreaming+Big+%7C+Learning+Daily+%7C+Aiming+for+Google!">
-</div>
 
 ---
 
