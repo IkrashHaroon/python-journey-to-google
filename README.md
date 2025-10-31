@@ -1,6 +1,5 @@
 <div align="center">
   <img src="py.png" height="240" width="240" alt="Python Logo" style="border-radius:50%;"/>
-  
   <h1>🚀 Python Journey to Google 🐍</h1>
   <p><i>by <strong>Ikrash Ibn Haroon</strong> — A daily learning repository aimed at becoming a Python Developer at Google 👨‍💻🌍</i></p>
 
@@ -12,6 +11,8 @@
     <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
   </p>
 
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=1000&color=00C0A3&center=true&vCenter=true&width=650&lines=Discipline+%C3%97+Consistency+%C3%97+Growth;Building+Python+Mastery+One+Chapter+at+a+Time;Dreaming+Big+%7C+Learning+Daily+%7C+Aiming+for+Google!"/>
+</div>
 
 ---
 
@@ -25,7 +26,7 @@ Welcome to my personal roadmap — a focused, daily **Python learning journey** 
 > Advanced problem-solving and mega projects will continue in a **new repository**. 🚀  
 
 This journey reflects **discipline, persistence, and growth**.  
-Every folder, every commit, and every solved problem marks another step toward the dream. 🌟  
+Every folder, every commit, and every solved problem marks another step toward the dream. 🌟
 
 ---
 
@@ -34,8 +35,24 @@ Every folder, every commit, and every solved problem marks another step toward t
 - 📅 **Daily Practice:** Committing progress every single day  
 - 💡 **Real-World Problems:** From beginner to advanced level  
 - 🧩 **Clean Folder Structure:** Organized and easy to navigate  
-- 📈 **Consistent Growth:** No zero days mindset  
+- 📈 **Consistent Growth:** “No Zero Days” mindset  
 - 🧪 **Modules + Practice Sets:** Learn by solving  
+
+## 🔥 GitHub Streak & Stats
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=IkrashHaroon&theme=highcontrast&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  
+  <br>
+  
+  ![IkrashHaroon's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkrashHaroon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+  
+  <br>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkrashHaroon&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
+</div>
 
 ---
 
@@ -113,22 +130,25 @@ python-journey-to-google/
 │       └── problems...
 ├── README.md
 └── roadmap.md
+
 ```
+
 🌟 Vision
 
 I believe in dreaming boldly and working consistently to make it real.
 This repo isn’t just about Python — it’s about resilience, clarity, and growth.
-Each commit is a reminder: Discipline today creates freedom tomorrow. 🏁
+Each commit is a reminder:
+
+Discipline today creates freedom tomorrow. 🏁
 
 🤝 Let's Connect!
 
-If you’re on a similar path or want to collaborate, learn, or share motivation — feel free to reach out.
+If you’re on a similar path or want to collaborate, learn, or share motivation — feel free to reach out!
 
 📬 Email: ikrashharoon1236@gmail.com
 
 🌐 GitHub: IkrashHaroon
 
-⭐ If this repo inspires or helps you, give it a star!
-It fuels my motivation and encourages me to build in public 🚀
+⭐ If this repo inspires or helps you, give it a star! It fuels my motivation and encourages me to build in public. 🚀
 
-<h3 align="center">🏁 Closing Note</h3> <p align="center"> This repository marks the end of <strong>Chapter 8</strong> in my Python journey. It was a chapter of growth, learning, and consistency that built the foundation for something greater. ✨ </p> <p align="center"> But this is not the end — it’s only <strong>the beginning</strong> of more ambitious projects and problem-solving ahead. <br> 🔜 <strong>Insha’Allah</strong>, upcoming Python repos will focus on <strong>mega projects, advanced DSA, and real-world applications</strong>. <br> The journey toward becoming a <strong>Python Developer at Google</strong> continues. 🌍💻 </p> <p align="center"> <i>Thank you for being part of this journey. The best is yet to come.</i> 🌟 <br><br> — With Gratitude,<br> <strong>Ikrash Ibn Haroon</strong> <br> 🐍 <code>#PythonistInProgress</code> </p> 
+<h3 align="center">🏁 Closing Note</h3> <p align="center"> This repository marks the end of <strong>Chapter 8</strong> in my Python journey. It was a chapter of growth, learning, and consistency that built the foundation for something greater. ✨ </p> <p align="center"> But this is not the end — it’s only <strong>the beginning</strong> of more ambitious projects and problem-solving ahead. <br> 🔜 <strong>Insha’Allah</strong>, upcoming Python repos will focus on <strong>mega projects, advanced DSA, and real-world applications</strong>. <br> The journey toward becoming a <strong>Python Developer at Google</strong> continues. 🌍💻 </p> <p align="center"> <i>Thank you for being part of this journey. The best is yet to come.</i> 🌟 <br><br>— With Gratitude,<br> <strong>Ikrash Ibn Haroon</strong> <br>🐍 <code>#PythonistInProgress</code> </p>
